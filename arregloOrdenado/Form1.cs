@@ -22,6 +22,24 @@ namespace arregloOrdenado
             
              
         }
+        int k=0, l=0;
+        public void insertar(){
+            dato= Convert.ToInt32(numericUpDown1.Value);
+            if(k<fila){
+                if(l<columna){
+                    DataGridView1.Rows[k].Cells[l].Value=dato;
+                    array[k,l]=dato;
+                    k++;
+                    dato=0;
+                    numericUpDown1.Value=0;
+                        if(l==columna){
+                            l=0;
+                            k++;
+                        }
+                }
+            }
+            
+        }
 
         
 
