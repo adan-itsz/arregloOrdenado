@@ -1,0 +1,9 @@
+C:\Users\adan\Documents\repositoriosVisual\arregloOrdenado\arregloOrdenado\bin\Debug\arregloOrdenado.exe.config
+C:\Users\adan\Documents\repositoriosVisual\arregloOrdenado\arregloOrdenado\bin\Debug\arregloOrdenado.exe
+C:\Users\adan\Documents\repositoriosVisual\arregloOrdenado\arregloOrdenado\bin\Debug\arregloOrdenado.pdb
+C:\Users\adan\Documents\repositoriosVisual\arregloOrdenado\arregloOrdenado\obj\Debug\arregloOrdenado.csprojResolveAssemblyReference.cache
+C:\Users\adan\Documents\repositoriosVisual\arregloOrdenado\arregloOrdenado\obj\Debug\arregloOrdenado.Form1.resources
+C:\Users\adan\Documents\repositoriosVisual\arregloOrdenado\arregloOrdenado\obj\Debug\arregloOrdenado.Properties.Resources.resources
+C:\Users\adan\Documents\repositoriosVisual\arregloOrdenado\arregloOrdenado\obj\Debug\arregloOrdenado.csproj.GenerateResource.Cache
+C:\Users\adan\Documents\repositoriosVisual\arregloOrdenado\arregloOrdenado\obj\Debug\arregloOrdenado.exe
+C:\Users\adan\Documents\repositoriosVisual\arregloOrdenado\arregloOrdenado\obj\Debug\arregloOrdenado.pdb
