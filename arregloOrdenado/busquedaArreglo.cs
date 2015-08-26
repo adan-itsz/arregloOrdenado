@@ -33,7 +33,7 @@ bool res=false;
 int fila=0;
 int columna=m;
 
-while(res!=true || fila<=n && columna >= m){ 
+while(res!=true || fila<n && columna > m){ 
 if(numBuscar== arreglo[fila,columna-1]){
 	res=true;
 }

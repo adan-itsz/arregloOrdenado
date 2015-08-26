@@ -156,7 +156,7 @@ namespace arregloOrdenado
                bool busqueda = bus.buscarNumero();
                if (busqueda)
                 {
-                    MessageBox.Show("El numero " + numeroBuscar + "si se encuentra en el arreglo");
+                    MessageBox.Show("El numero " + numeroBuscar + " si se encuentra en el arreglo");
                }
                 else
                 {
