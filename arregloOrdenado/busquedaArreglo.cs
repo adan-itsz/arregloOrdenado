@@ -9,12 +9,18 @@ namespace arregloOrdenado
     class busquedaArreglo
     {
         int n,m,numBuscar;
-        public void busquedaArreglo(int fil,int col, int numBusqueda){
+        int[,]arreglo;
+        public  busquedaArreglo(int fil,int col, int numBusqueda ,int[,] arreglo){
+            this.arreglo = arreglo;
             this.n=fil;
             this.m=col;
             this.numBuscar=numBusqueda;
 
         }
+        //public static int getN()
+        //{
+        //    return n;
+        //} 
 
         
 
@@ -22,7 +28,7 @@ namespace arregloOrdenado
 
 public bool buscarNumero ()
 {
- int[,]arreglo = new int[n,m];
+ 
 bool res=false;
 int fila=0;
 int columna=m;
